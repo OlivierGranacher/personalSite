@@ -1,0 +1,16 @@
+---
+title: 'Test Post 2 '
+author: OG
+date: '2020-11-13'
+slug: test-post-2
+categories: []
+tags: []
+---
+
+This is post number 2
+
+```{r code, echo=T}
+x <- 2
+x
+```
+
