@@ -1,5 +1,5 @@
 ---
-title: Test Post
+title: Writing Formulas in Rmarkdown
 author: OG
 date: '2020-11-13'
 slug: test-post
@@ -7,4 +7,21 @@ categories: []
 tags: []
 ---
 
-This is a test post.
+A good reference : (https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+
+## Fractions
+
++ frac {a} {b}
+
++ dfrac {a} {b}
+
+## Indices
+
++ X_{n1} : $X_{n1}$
+
+## Multiplication
+
++ a times b 
+
+
+
