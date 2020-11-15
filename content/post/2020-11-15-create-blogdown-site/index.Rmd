@@ -1,14 +1,14 @@
 ---
-title: "Create Blogdown Site"
+title: "Create a blogdown Site"
 author: "Olivier Granacher"
 date: '2020-11-15'
 slug: create-blogdown-site
 categories: []
 tags: []
 ---
-> Steps to create a first personal site with blogdown.
-
-Reference : (https://bookdown.org/yihui/blogdown/)
+Steps to create a first personal site with blogdown.:relaxed:  
+Blogdown allows the making of static sites with R markdown processing.  
+Reference:(https://bookdown.org/yihui/blogdown/)
 
 
 ```{r setup, eval=T, echo=FALSE}
@@ -17,17 +17,15 @@ knitr::opts_chunk$set(echo = TRUE, eval = F)
 
 
 ## Install blogdown
-
 ```{r install_blogdown}
 install.packages("blogdown")
 blogdown::install_hugo()
 ```
 
 ## Create project in Rstudio 
-
 Use  _Website using Blogdown_ as Project type
 
 ## Create repository on Git 
+Set repository as remote for project
 
-Set as remote for project
-
+## 
