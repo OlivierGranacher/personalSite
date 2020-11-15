@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Doc Site"
+title = "R programming reference"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -15,7 +15,7 @@ enableEmoji = true
     url = "/about/"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Reference and tips for programming in R"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.12.0"
@@ -30,7 +30,7 @@ enableEmoji = true
     favicon = "favicon.ico"
 
     [params.logo]
-    url = "logo.png"
+    url = "id.png"
     width = 50
     height = 50
     alt = "Logo"
