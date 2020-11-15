@@ -11,17 +11,17 @@ A good reference : (https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 ## Fractions
 
-+ frac {a} {b}
++ __\\frac {a} {b}__  : $\frac {a} {b}$
 
-+ dfrac {a} {b}
++ __\\dfrac {a} {b}__ : $\dfrac {a} {b}$ 
 
 ## Indices
 
-+ X_{n1} : $X_{n1}$
++ __X_{n1}__ : $X_{n1}$
 
 ## Multiplication
 
-+ a times b 
++ __a \\times b__ : $a \times b$
 
 
 
