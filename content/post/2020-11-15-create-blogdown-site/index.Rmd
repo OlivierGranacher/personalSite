@@ -29,7 +29,7 @@ Use  _Website using Blogdown_ as Project type
 Set repository as remote for project
 
 ## Link GitHub repository to netlify
-[netlify](www.netlify.com)
+(https://www.netlify.com/)
 
 All pushes to GitHub are updated to netlify and to the site.
 
