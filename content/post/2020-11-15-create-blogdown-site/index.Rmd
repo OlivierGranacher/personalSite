@@ -25,8 +25,12 @@ blogdown::install_hugo()
 ## Create project in Rstudio 
 Use  _Website using Blogdown_ as Project type
 
-## Create repository on Git 
+## Create repository on GitHub
 Set repository as remote for project
 
-## Link Git repository to netlify
+## Link GitHub repository to netlify
 [netlify](www.netlify.com)
+
+All pushes to GitHub are updated to netlify and to the site.
+
+Domain names are available from netlify.
