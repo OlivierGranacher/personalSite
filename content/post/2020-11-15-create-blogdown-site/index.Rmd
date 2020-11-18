@@ -28,4 +28,5 @@ Use  _Website using Blogdown_ as Project type
 ## Create repository on Git 
 Set repository as remote for project
 
-## 
+## Link Git repository to netlify
+[netlify](www.netlify.com)
