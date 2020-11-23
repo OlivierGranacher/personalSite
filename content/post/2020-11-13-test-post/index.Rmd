@@ -23,5 +23,9 @@ A good reference : (https://en.wikibooks.org/wiki/LaTeX/Mathematics)
 
 + __a \\times b__ : $a \times b$
 
+## Line breaks in RMarkdown
+
++ _first line \\  second line_ :  $first line \\  second line$
+
 
 
